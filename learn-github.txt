@@ -2,3 +2,4 @@ belajar github
 Resolusi Saya
 - 2x project dalam 1 bulan
 - Mempelajari mengenai web development
+- memperdalam bahasa java script  
